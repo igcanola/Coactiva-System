@@ -1,0 +1,66 @@
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.exe
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.pdb
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.xml
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.iniciar_sesion.resources
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.Form1.resources
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.Resources.resources
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.cambiar_clave.resources
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.vbproj.GenerateResource.Cache
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.exe
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.xml
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.pdb
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.ing_juicio_coactivo.resources
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.consulta_abogado.resources
+C:\Documents and Settings\InGriD_CañOla\Mis documentos\Visual Studio 2008\Projects\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.consulta_juicio.resources
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.exe
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.xml
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.pdb
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.exe
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.pdb
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.xml
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\ResolveAssemblyReference.cache
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.iniciar_sesion.resources
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.consulta_abogado.resources
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.consulta_juicio.resources
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.Form1.resources
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.ing_juicio_coactivo.resources
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.Resources.resources
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.cambiar_clave.resources
+D:\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.exe
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.xml
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.pdb
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.exe
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.pdb
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.xml
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.iniciar_sesion.resources
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.consulta_abogado.resources
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.consulta_juicio.resources
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.Form1.resources
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.ing_juicio_coactivo.resources
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.Resources.resources
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.cambiar_clave.resources
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Clases.dll
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Clases.pdb
+C:\Documents and Settings\Javier\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Clases.xml
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.exe
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.xml
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.pdb
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.exe
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.pdb
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Sistema de Control de Juicios.xml
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Clases.dll
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Clases.pdb
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\bin\Debug\Clases.xml
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.iniciar_sesion.resources
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.consulta_abogado.resources
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.consulta_juicio.resources
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.Form1.resources
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.ing_juicio_coactivo.resources
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.Resources.resources
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema_de_Control_de_Juicios.cambiar_clave.resources
+C:\Documents and Settings\Miguel\Mis documentos\Sistema IESS\Sistema de Control de Juicios\Sistema de Control de Juicios\obj\Debug\Sistema de Control de Juicios.vbproj.GenerateResource.Cache
